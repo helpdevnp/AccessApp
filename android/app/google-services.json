@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478485375775",
+    "firebase_url": "https://access-mart-default-rtdb.firebaseio.com",
+    "project_id": "access-mart",
+    "storage_bucket": "access-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478485375775:android:b99a6d36119130cbd4de2a",
+        "android_client_info": {
+          "package_name": "np.net.access.mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478485375775-fdq5gshb4oj7n0oc918thq1p2nggfm9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcT8IFbN438ngdpqoIigwWx3A9q2XmlZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478485375775-4i3tda5vkn1v05ema7ubq30cgrc4m8cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
